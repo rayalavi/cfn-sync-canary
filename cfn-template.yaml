@@ -2,5 +2,5 @@ Resources:
   MyQueue: 
     Type: "AWS::SQS::Queue"
     Properties: {
-      QueueName: "hello6"
+      QueueName: "hello5"
     }
