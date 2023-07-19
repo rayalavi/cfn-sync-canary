@@ -1,4 +1,4 @@
 template-file-path: ./CfnTestRepo1/cfn-template.yaml
 
 parameters: 
-    QueueName: "hello"
+    QueueName: "hello1"
