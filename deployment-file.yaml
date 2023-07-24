@@ -1,3 +1,3 @@
 template-file-path: ./cfn-sync-integ-tests-alpha-us-east-1/cfn-template.yaml
 parameters: 
-    MyOutput: 8d153615-53e9-4292-a287-b04085fb5211
+    MyOutput: dd257956-41f0-4936-8838-2951dbe19b22
