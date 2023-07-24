@@ -1,3 +1,3 @@
 template-file-path: ./cfn-sync-integ-tests-alpha-us-east-1/cfn-template.yaml
 parameters: 
-    QueueName: 06c26f98-e3e2-4f71-9c8c-07934e7f9a68
+    QueueName: b4bdfe79-4a67-4f28-9dc9-c5ab74d7ae6d
