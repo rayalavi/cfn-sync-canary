@@ -1,10 +1,11 @@
 Parameters:
-  QueueName:
+  MyOutput:
     Type: String
 
 Resources:
-  MyQueue: 
-    Type: "AWS::SQS::Queue"
-    Properties: {
-      QueueName: !Ref QueueName
-    }
+  NullResource:
+    Type: AWS::CloudFormation::WaitConditionHandle
+
+Outputs:
+  MyOutput:
+    Value: !Ref MyOutput
