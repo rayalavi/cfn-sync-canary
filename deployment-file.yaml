@@ -1,4 +1,3 @@
 template-file-path: ./cfn-sync-integ-tests-alpha-us-east-1/cfn-template.yaml
-
 parameters: 
-    QueueName: "vishnu"
+    QueueName: 42e1d738-e7f9-49e7-9c44-8db1e71d5641
