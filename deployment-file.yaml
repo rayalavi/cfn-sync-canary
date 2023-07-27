@@ -1,5 +1,3 @@
-template-file-path: ./cfn-sync-integ-tests-alpha-us-east-1/cfn-template.yaml
+template-file-path: cfn-template.yaml
 parameters: 
-    MyOutput: 01aa47a9-b692-49ec-813a-ae342e278fbd
-tags:
-  account_type: integ-test
+    MyOutput: b15431ec-c49c-4ffb-8942-67f461092a26
