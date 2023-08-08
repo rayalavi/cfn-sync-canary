@@ -1,3 +1,3 @@
 template-file-path: cfn-template.yaml
 parameters: 
-    MyOutput: 0c91874d-efce-4fe9-a73f-68536315e578
+    MyOutput: 4729b9f2-8086-475d-b074-158703f8e7ee
